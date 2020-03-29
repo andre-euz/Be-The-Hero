@@ -44,8 +44,8 @@ export default function Register() {
                 <section>
                     <img src={logoImg} alt="Be The Hero"/>
 
-                    <h1>Cadastrar Novo Caso</h1>
-                    <p>Descreva o caso detalhadamente para encontrar um herói para resolver isso.</p>
+                    <h1>Cadastro</h1>
+                    <p>Faça seu cadastro, entre na plataformar e ajude pessoas a encontrarem os casos da sua ONG.</p>
 
                     <Link className="back-link" to="/">
                         <FiArrowLeft size={16} color="#E02041" />
