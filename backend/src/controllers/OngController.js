@@ -12,8 +12,21 @@ module.exports = {
     async create(req, res) {
         const { name, email, whatsapp, city, uf } = req.body;
 
-        const id = crypto.randomBytes(4).toString('HEX');
-
+        let id = 0;
+        const generateId = async () => {
+            let existentId = true;
+            while(existentId){
+                id = crypto.randomBytes(4).toString('HEX');
+                existentId = await connection('ongs')
+                                        .where('id',id)            
+                                        .select('id')
+                                        .first();
+            }     
+            return id
+        }
+        
+        generateId();
+        
         await connection('ongs').insert({
             id,
             name,
