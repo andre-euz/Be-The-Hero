@@ -74,7 +74,7 @@ npm start
 
 ### Mobile
 
-A aplicação foi desenolvida utilizando o Expo, que é uma ferramenta gratuita/open source que serve para facilitar o processo de rodar/testar as aplicações desenvolvidas em React Native. [Clique aqui](https://expo.io/learn) para saber mais sobre o Expo.
+A aplicação foi desenvolvida utilizando o Expo, que é uma ferramenta gratuita/open source que serve para facilitar o processo de rodar/testar as aplicações desenvolvidas em React Native. [Clique aqui](https://expo.io/learn) para saber mais sobre o Expo.
 
 
 Para executar o aplicativo no seu dispositivo, você precisa alterar a configuração do ip.
