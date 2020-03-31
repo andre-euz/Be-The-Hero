@@ -96,4 +96,4 @@ Expo será aberto no seu navegador, agora bastar escanear o QRcode da página co
 
 > A aplicação foi desenvolvida e testada em um iPhone 7, iOS 13.3.1
 
-Feito com :coffee: e :heart: por André R. Euzébio
+Feito com :heart: e :coffee: por André R. Euzébio
