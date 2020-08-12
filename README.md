@@ -30,7 +30,7 @@ Além disto, conta com um aplicativo mobile com versões tanto para o sistema An
  
 ## Tecnologias
 
-Neste projeto, utlizamos as seguintes tecnologias:
+Neste projeto, utilizamos as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -92,7 +92,7 @@ Com tudo funcionando, rode a aplicação.
 # para rodar o app, abra um novo terminal, navegando até a pasta mobile da aplicação, e execute 
 npm start
 ```
-Expo será aberto no seu navegador, agora bastar escanear o QRcode da página com a câmera do celular, e esperar o app carregá-la.
+Expo será aberto no seu navegador, agora basta escanear o QRcode da página com a câmera do celular, e esperar o app carregá-la.
 
 > A aplicação foi desenvolvida e testada em um iPhone 7, iOS 13.3.1
 
